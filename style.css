@@ -1,0 +1,17 @@
+body {
+    background-color: lightgreen;
+    font-family: 'Special Elite',cursive;
+}
+.header_div {
+    background-color: white;
+    color:black;
+}
+.copy_footer{
+    margin-top: 50px;
+    position: fixed;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    line-height:3;
+    text-shadow: 5px 5px 5px black;
+}
